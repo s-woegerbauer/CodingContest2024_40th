@@ -8,7 +8,7 @@ public static class Program
     public static void Main(string[] args)
     {
         Master.Run();
-        Master.Test();
+        //Master.Test();
     }
     
     public static List<string> Solution(List<string> input)
