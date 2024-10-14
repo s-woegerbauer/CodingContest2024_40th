@@ -1,0 +1,15 @@
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\bin\Debug\net8.0\CodingContest2024_40th.exe
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\bin\Debug\net8.0\CodingContest2024_40th.deps.json
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\bin\Debug\net8.0\CodingContest2024_40th.runtimeconfig.json
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\bin\Debug\net8.0\CodingContest2024_40th.dll
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\bin\Debug\net8.0\CodingContest2024_40th.pdb
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\CodingContest2024_40th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\CodingContest2024_40th.AssemblyInfoInputs.cache
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\CodingContest2024_40th.AssemblyInfo.cs
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\CodingContest2024_40th.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\CodingContest2024_40th.sourcelink.json
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\CodingContest2024_40th.dll
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\refint\CodingContest2024_40th.dll
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\CodingContest2024_40th.pdb
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\CodingContest2024_40th.genruntimeconfig.cache
+C:\Users\Simon\Documents\GitHub\CodingContest2024_40th\CodingContest2024_40th\CodingContest2024_40th\obj\Debug\net8.0\ref\CodingContest2024_40th.dll
