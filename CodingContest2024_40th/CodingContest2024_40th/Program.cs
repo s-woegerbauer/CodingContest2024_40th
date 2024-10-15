@@ -8,7 +8,11 @@ public static class Program
     public static void Main(string[] args)
     {
         Master.Run();
-        //Master.Test();
+
+        if (args.Length == 1 && args[0] == "-t")
+        {
+            Master.Test();
+        }
     }
     
     public static List<string> Solution(List<string> input)
