@@ -19,6 +19,12 @@ public class Cube<T>
         Data = data;
     }
     
+    public T this[Coordinates3D coordinates]
+    {
+        get => Data[coordinates.X, coordinates.Y, coordinates.Z];
+        set => Data[coordinates.X, coordinates.Y, coordinates.Z] = value;
+    }
+    
     public T this[int x, int y, int z]
     {
         get => Data[x, y, z];

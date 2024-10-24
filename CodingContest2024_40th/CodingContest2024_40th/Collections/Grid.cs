@@ -4,9 +4,9 @@ namespace CodingContest2024_40th.Collections;
 
 public class Grid<T>
 {
-    public int Rows => Data.GetLength(1);
+    public int Rows => Data.GetLength(0);
 
-    public int Columns => Data.GetLength(0);
+    public int Columns => Data.GetLength(1);
     
     public T[,] Data { get; }
 

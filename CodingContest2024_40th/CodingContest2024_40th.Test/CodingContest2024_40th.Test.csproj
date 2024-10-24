@@ -23,10 +23,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Collections\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\CodingContest2024_40th\CodingContest2024_40th.csproj" />
     </ItemGroup>
 
